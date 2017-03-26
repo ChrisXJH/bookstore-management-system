@@ -1,0 +1,3 @@
+n:The Great Gatsby;t:Novel;q:10;p:15.0;op:10.0; 
+n:Death of the Salesman;t:Play;q:5;p:10.0;op:8.0; 
+n:Othello;t:Play;q:3;p:25.0;op:21.5; 

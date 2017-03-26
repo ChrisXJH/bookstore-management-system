@@ -1,0 +1,6 @@
+SETTINGS
+Add Account
+Show Accounts
+Change Password
+Change Geographic Location
+MAIN

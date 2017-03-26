@@ -1,0 +1,7 @@
+6
+id:02;name:Death of the Salesman;type:Play;publisher:Perfection Reading;price:10.0;op:5.0;quantity:2;sold:94; 
+id:01;name:The Great Gatsby;type:Novel;publisher:Penguin;price:17.5;op:10.0;quantity:36;sold:158; 
+id:03;name:Othello;type:Play;publisher:Perfection Reading;price:28.5;op:20.0;quantity:92;sold:87; 
+id:05;name:Calculus and Vectors;type:Textbook;publisher:Nelson;price:150.0;op:100.0;quantity:7;sold:43; 
+id:07;name:Starting Out with Java;type:Textbook;publisher:Education Canada;price:188.0;op:150.0;quantity:99;sold:1; 
+id:04;name:Essentials of Precalculus;type:Textbook;publisher:Education Canada;price:230.0;op:180.0;quantity:97;sold:3; 

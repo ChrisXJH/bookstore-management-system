@@ -1,0 +1,8 @@
+STOCK
+Show Stock
+Add Item
+Edit Item
+Delete Item
+Search
+Sort
+MAIN

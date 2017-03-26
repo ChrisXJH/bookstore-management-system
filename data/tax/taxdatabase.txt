@@ -1,0 +1,9 @@
+ONTARIO
+p:Ontario;t:0.13; 
+p:British Columbia;t:0.12; 
+p:Manitoba;t:0.13; 
+p:New Brunswick;t:0.13; 
+p:Nova Scotia;t:0.15; 
+p:Nunavut;t:0.05; 
+p:Quebec;t:0.14975; 
+p:Yukon;t:0.05; 

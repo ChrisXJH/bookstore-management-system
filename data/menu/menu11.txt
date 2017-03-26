@@ -1,0 +1,6 @@
+SORT
+By Names (From A to Z)
+By Names (From Z to A)
+By Prices (From low to high)
+By Prices (From high to low)
+STOCK

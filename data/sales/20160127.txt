@@ -1,0 +1,4 @@
+n:The Great Gatsby;t:Novel;q:10;p:15.0;op:10.0; 
+n:Death of the Salesman;t:Play;q:6;p:10.0;op:8.0; 
+n:Calculus and Vectors;t:Textbook;q:2;p:150.0;op:140.0; 
+n:Indian Horse;t:Novel;q:3;p:24.5;op:20.0; 

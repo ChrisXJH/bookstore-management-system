@@ -1,0 +1,4 @@
+n:Advanced Function;t:Textbook;q:2;p:213.0;op:200.0; 
+n:Calculus and Vectors;t:Textbook;q:3;p:150.0;op:140.0; 
+n:The Great Gatsby;t:Novel;q:20;p:15.0;op:10.0; 
+n:Death of the Salesman;t:Play;q:15;p:10.0;op:8.0; 
